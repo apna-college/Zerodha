@@ -35,7 +35,7 @@ app.use(bodyParser.json());
 //       price: 1522.35,
 //       net: "+10.04%",
 //       day: "+0.11%",
-//     },
+    },
 //     {
 //       name: "HINDUNILVR",
 //       qty: 1,
